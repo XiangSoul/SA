@@ -24,4 +24,13 @@
 [高科大](https://www.nkust.edu.tw)
 
 ![NKUST](https://www.nkust.edu.tw/var/file/0/1000/img/513/182513897.png "NKUST")
-![](https://www.cnet.com/a/img/-e95qclc6pwSnGE2YccC2oLDW_8=/1200x675/2020/04/16/7d6d8ed2-e10c-4f91-b2dd-74fae951c6d8/bazaart-edit-app.jpg)
+
+- [ ] todo list
+- [x] done 1
+- [ ] undinished
+- [X] done 2
+
+```python
+str="This is a strring."
+print(str)
+```
