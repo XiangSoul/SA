@@ -27,6 +27,14 @@
 
 ~~刪除線~~
 
+Emphasis, aka italics, with asterisks or underscores.
+
+Strong emphasis, aka bold, with **asterisks** or **underscores**.
+
+Combined emphasis with asterisks and underscores.
+
+Strikethrough uses two tildes. ~~Scratch this.~~
+
 [高科大](https://www.nkust.edu.tw)
 
 ![NKUST](https://www.nkust.edu.tw/var/file/0/1000/img/513/182513897.png "NKUST")
