@@ -17,3 +17,9 @@
 
 ## PERT/CPM
 ![fig](PERT.png)
+
+## 關鍵路徑
+# 1->2->4->6->8->9->10->11
+
+## Gantt Chart
+![fig](GanttChart.jpg)
