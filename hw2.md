@@ -16,3 +16,4 @@
 ***
 
 ## PERT/CPM
+![fig](PERT.png)
